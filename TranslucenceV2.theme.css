@@ -1,24 +1,21 @@
 /**
- * @name Translucence
- * @version 1.0.6.3
- * @description A translucent/frosted glass Discord theme
- * @author CapnKitten
+ * @name TranslucenceV2
+ * @version 2
+ * @description A fork of the Translucence theme for BetterDiscord and Vencord.
+ * @author WarFiN
  *
- * @website http://github.com/CapnKitten
- * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Translucence/css/source.css
- * @donate https://paypal.me/capnkitten
- * @invite jzJkA6Z
+ * @invite t6CKrYvQuE
  */
 
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
+	--app-bg: rgba(0,0,0,0);
 	--app-blur: 6px;
-	--app-margin: 24px;
-	--app-radius: 8px; /*	-	*/
+	--app-margin: 10px;
+	--app-radius: 5px; /*	-	*/
 	
-	--accent-hue: 156;
+	--accent-hue: 50;
 	--accent-saturation: 77.5%;
 	--accent-lightness: 47.1%;
 	--accent-opacity: 1;
@@ -59,4 +56,5 @@
 
 	--background-modifier-hover: rgba(255,255,255,0.075);
 	--background-modifier-selected: rgba(255,255,255,0.125);
+
 }
