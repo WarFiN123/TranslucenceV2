@@ -21,7 +21,7 @@ Current version: v2.0.0 (07/07/2024)
  - Click on the plus sign in the bottom left corner in MicaForEveryone
  - Click on `Add process rule`
  - Search for Discord and add it
- - Set `Backdrop Type` to `Acrylic`
+ - Set `Backdrop Type` to `None`
  - Enable `Blur Behind`
  - Restart your Discord client
 
