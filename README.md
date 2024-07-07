@@ -23,6 +23,7 @@ Current version: v2.0.0 (07/07/2024)
  - Search for Discord and add it
  - Set `Backdrop Type` to `None`
  - Enable `Blur Behind`
+ - Set `Corner Mode` to `Rounded`
  - Restart your Discord client
 
 #### Accent color
