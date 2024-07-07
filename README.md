@@ -1,4 +1,4 @@
-# Translucence Theme - [![Discord][discord-logo]][discord-url]
+# TranslucenceV2 Theme - [![Discord][discord-logo]][discord-url]
 #### A fork of the Translucence theme for BetterDiscord and Vencord.
 <hr>
 
