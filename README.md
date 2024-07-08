@@ -32,6 +32,10 @@ Current version: v2.0.0 (07/07/2024)
  - `--accent-lightness` - The lightness value for the accent color of the theme. Default: `47.1%`
  - `--accent-opacity` - The opacity of everything, excluding text, that uses the accent color. Default: `1`
  - `--accent-text-color` - The text color for buttons and other various elements with the accent background color. Default: `#000`
+
+ ## Wallpaper (Completely optional*)
+ #### Since some of you guys wanted my walllpaper, here you go:
+ ![wallpaper](https://github.com/WarFiN123/TranslucenceV2/blob/200a43011edb9623c4c8cc7030a6f06a091d0f6d/assets/Wallpaper.jpg?raw=true) 
 ### IF THIS IS TOO COMPLICATED FOR YOU OR IF YOU WANT TO CHANGE THE COLOUR, OPEN AN ISSUE OR CONTACT ME ON DISCORD.
  
 [discord-logo]: https://img.shields.io/static/v1?label=Discord&message=Server&style=flat&logo=discord&color=blue
