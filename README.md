@@ -1,12 +1,13 @@
 <div align="center">
     <img src="https://cdn.discordapp.com/icons/1259437346944979027/e28036a239aea2e6e4077b3f69bd52b1.webp?size=4096" alt="logo" />
-</div>
 
 # TranslucenceV2 Theme [![Discord][discord-logo]][discord-url]
+</div>
+
 #### A fork of the Translucence theme for BetterDiscord and Vencord.
 <hr>
 
-Current version: v2.0.0 (07/07/2024)
+Current version: v2.0.1 (10/07/2024)
 
 ## Previews
 
