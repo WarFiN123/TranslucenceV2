@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://cdn.discordapp.com/icons/1259437346944979027/e28036a239aea2e6e4077b3f69bd52b1.webp?size=4096" alt="logo" />
 
-# TranslucenceV2 Theme [![Discord][discord-logo]][discord-url]
+# TranslucenceV2 Theme <br>[![Discord][discord-logo]][discord-url]
 </div>
 
 #### A fork of the Translucence theme for BetterDiscord and Vencord.
